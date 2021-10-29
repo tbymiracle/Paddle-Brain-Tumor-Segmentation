@@ -58,7 +58,7 @@ python bts/check_diff.py # check diff of forward step.
         
 * Network structure transfer.
 * Weight transfer:
-  * model of keras version to do the aligh : [paddle-bts/bts_paddle_ub.pdparams]()
+  * model of keras version to do the aligh : [bts/trial_input_cascasde_acc.h5](https://github.com/tbymiracle/Paddle-Brain-Tumor-Segmentation/blob/main/bts/trial_input_cascasde_acc.h5)
   * model of paddle version transfered from keras: [paddle-bts/bts_paddle_ub.pdparams](https://github.com/tbymiracle/Paddle-Brain-Tumor-Segmentation/blob/main/paddle-bts/bts_paddle_ub.pdparams) 
 * Verify the network.
 * Forward align
