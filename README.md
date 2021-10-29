@@ -8,16 +8,16 @@ We put the keras version in keras-bts/ (the [official code](https://github.com/j
 We put our project in paddle-bts/. Our project can achieve almost the same results. 
 ## 2.Result
 
-The model is trained on the train set of BraTS2015.
+The model is trained on the train set of BraTS2015, and we test it on the 0027 image(an image has 240 slices) as the author did.
 
-in all slices:
+Average results in all slices:
 
  Version | Dice Complete | Dice Core | Dice Enhancing
  ---- | ----- | -----  | -----
  pytorch version(official)  | -  | - | -
  paddle version(ours) | 0.907|  0.96 | 1.0
  
- in slice 113:
+ Result in slice 113:
  
   Version | Dice Complete | Dice Core | Dice Enhancing
  ---- | ----- | -----  | -----
