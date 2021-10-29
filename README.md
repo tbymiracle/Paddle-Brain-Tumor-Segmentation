@@ -8,14 +8,20 @@ We put the keras version in keras-bts/ (the [official code](https://github.com/j
 We put our project in paddle-bts/. Our project can achieve almost the same results. 
 ## 2.Result
 
-The model is trained on the train set of BraTS2013.
+The model is trained on the train set of BraTS2015.
+
+ Version | Dice Complete | Dice Core | Dice Enhancing
+ ---- | ----- | -----  | -----
+ pytorch version(official)  | -  | - | -
+ paddle version(ours) | 0.907|  0.96 | 1.0
+
 
 The model file of the keras version we trained(accuracy of 95.4%)
 
 
-The model file of the paddle version we trained(accuracy of 95.4%)
+The model file of the paddle version we trained：
 
-
+链接: https://pan.baidu.com/s/1M5wGRSbIcmQLsvCoeS5Lsg 提取码: pi6p 复制这段内容后打开百度网盘手机App，操作更方便哦
 
 
 ## 3.Requirements
