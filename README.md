@@ -18,6 +18,7 @@ The model is trained on the train set of BraTS2015.
 
 The model file of the keras version we trained：
 
+链接: https://pan.baidu.com/s/1d6QH6NuS9tafqQBZHEmrvA 提取码: mep2 复制这段内容后打开百度网盘手机App，操作更方便哦
 
 The model file of the paddle version we trained：
 
