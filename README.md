@@ -45,7 +45,9 @@ CUDA_VISIBLE_DEVICES=0 python test.py
 ## 5.Align
 
 We use the [`repord_log`](https://github.com/WenmuZhou/reprod_log) tool to align.
+
 The author use keras framework in the official version, so it is hard to align in all the steps.
+
 Thus, we can only do the forward align.
 
 ```  
