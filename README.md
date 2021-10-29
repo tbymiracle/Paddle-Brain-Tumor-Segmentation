@@ -52,21 +52,6 @@ Thus, we can only do the forward align.
 ```  
 python bts/check_diff.py # check diff of forward step.
 ```  
-day1-gulp1
-├── README.md
-├── gulpfile.js
-├── js
-│   └── main.js
-├── package-lock.json
-├── package.json
-├── src
-│   ├── css
-│   │   ├── style.css
-│   │   └── style1.css
-│   ├── index.html
-│   └── ts
-│       └── main.ts
-└── tsconfig.json
 
  * Network structure transfer.
  * Weight transfer(model of paddle version transfered from keras link): 
