@@ -75,4 +75,4 @@ python keras-bts/check_diff.py # check diff of forward step.
   * paddle-bts/forward_paddle.npy
   * keras-bts/forward_diff.log
 * Train align
-  * As shown in part 
+  * As shown in part 2.
