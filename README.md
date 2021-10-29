@@ -50,19 +50,19 @@ The author use keras framework in the official version, so it is hard to align i
 Thus, we can only do the forward align.
 
 ```  
-python bts/forward.py # keras forward
+python keras-bts/forward.py # keras forward
 python paddle-bts/forward.py # paddle forward
-python bts/check_diff.py # check diff of forward step.
+python keras-bts/check_diff.py # check diff of forward step.
 ```  
 
         
 * Network structure transfer.
 * Weight transfer:
-  * model of keras version to do the aligh : [bts/trial_input_cascasde_acc.h5](https://github.com/tbymiracle/Paddle-Brain-Tumor-Segmentation/blob/main/bts/trial_input_cascasde_acc.h5)
+  * model of keras version to do the aligh : [keras-bts/trial_input_cascasde_acc.h5](https://github.com/tbymiracle/Paddle-Brain-Tumor-Segmentation/blob/main/keras-bts/trial_input_cascasde_acc.h5)
   * model of paddle version transfered from keras: [paddle-bts/bts_paddle_ub.pdparams](https://github.com/tbymiracle/Paddle-Brain-Tumor-Segmentation/blob/main/paddle-bts/bts_paddle_ub.pdparams) 
 * Verify the network.
 * Forward align
-  * bts/forward_keras.npy
+  * keras-bts/forward_keras.npy
   * paddle-bts/forward_paddle.npy
-  * bts/forward_diff.log
+  * keras-bts/forward_diff.log
 * Train align
