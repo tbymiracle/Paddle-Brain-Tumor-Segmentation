@@ -1,8 +1,7 @@
 # Paddle-Brain-Tumor-Segmentation
 
 ## 1.Introduction
-This project is based on the paddlepaddle_V2.1 framework to reproduce Brain-Tumor-Segmentation and the [official code](https://github.com/jadevaibhav/Brain-Tumor-Segmentation-using-Deep-Neural-networks) of Keras.
-
+This project is based on the paddlepaddle_V2.1 framework to reproduce Brain-Tumor-Segmentation. [Official code](https://github.com/jadevaibhav/Brain-Tumor-Segmentation-using-Deep-Neural-networks) of Keras. We put the keras version in keras-bts/ (the official code is implemented in jupyter notebook and so we change it a little). We put our project in paddle-bts/. Our project can achieve almost the same results. 
 ## 2.Result
 
 The model is trained on the train set of BraTS2013.
