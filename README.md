@@ -16,7 +16,7 @@ The model is trained on the train set of BraTS2015.
  paddle version(ours) | 0.907|  0.96 | 1.0
 
 
-The model file of the keras version we trained(accuracy of 95.4%)
+The model file of the keras version we trained：
 
 
 The model file of the paddle version we trained：
