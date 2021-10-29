@@ -10,10 +10,20 @@ We put our project in paddle-bts/. Our project can achieve almost the same resul
 
 The model is trained on the train set of BraTS2015.
 
+in all slices:
+
  Version | Dice Complete | Dice Core | Dice Enhancing
  ---- | ----- | -----  | -----
  pytorch version(official)  | -  | - | -
  paddle version(ours) | 0.907|  0.96 | 1.0
+ 
+ in slice 113:
+ 
+  Version | Dice Complete | Dice Core | Dice Enhancing
+ ---- | ----- | -----  | -----
+ pytorch version(official)  | -  | - | -
+ paddle version(ours) | 0.828|  0.935 | 1.0
+ 
 
 
 The model file of the keras version we trained：
