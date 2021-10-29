@@ -65,4 +65,4 @@ python bts/check_diff.py # check diff of forward step.
   * bts/forward_keras.npy
   * paddle-bts/forward_paddle.npy
   * bts/forward_diff.log
-* train align
+* Train align
