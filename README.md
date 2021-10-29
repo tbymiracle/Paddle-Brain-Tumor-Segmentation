@@ -9,11 +9,10 @@ The model is trained on the train set of BraTS2013.
 
 The model file of the keras version we trained(accuracy of 95.4%)
 
-Link: https://pan.baidu.com/s/1GfHo25O-WUWz2X8uzjWA2A  Password: 8ukd
 
 The model file of the paddle version we trained(accuracy of 95.4%)
 
-Link: https://pan.baidu.com/s/1SRz0QP2gYSeimUwF-dLh5A  Password: nmcd
+
 
 
 ## 3.Requirements
