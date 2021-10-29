@@ -10,7 +10,7 @@ We put our project in paddle-bts/. Our project can achieve almost the same resul
 
 The model is trained on the train set of BraTS2015, and we test it on the 0027 image(an image has 240 slices) as the author did.
 
-Average result in all slices:
+Average result in all 240 slices:
 
  Version | Dice Complete | Dice Core | Dice Enhancing
  ---- | ----- | -----  | -----
