@@ -53,26 +53,9 @@ Thus, we can only do the forward align.
 python bts/check_diff.py # check diff of forward step.
 ```  
 
- |-- .bowerrc
-    |-- .jshintrc
-    |-- .jshintrc2
-    |-- Gruntfile.js
-    |-- README.md
-    |-- bower.json
-    |-- karma.conf.js
-    |-- package.json
-    |-- app
-        |-- app.js
-        |-- db.js
-        |-- directoryList.md
-        |-- index.html
-        |-- mddir.js
-        |-- routing.js
-        |-- server.js
-        |-- _api
         
  * Network structure transfer.
  * Weight transfer(model of paddle version transfered from keras link): 
  * Verify the network.
- * Forward align
+ * Forward align （bts/forward_diff.log;bts/forward_keras.npy;paddle-bts/forward_paddle.npy)
  * train align
