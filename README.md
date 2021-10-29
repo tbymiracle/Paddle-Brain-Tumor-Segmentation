@@ -50,6 +50,8 @@ The author use keras framework in the official version, so it is hard to align i
 Thus, we can only do the forward align.
 
 ```  
+python bts/forward.py # keras forward
+python paddle-bts/forward.py # paddle forward
 python bts/check_diff.py # check diff of forward step.
 ```  
 
