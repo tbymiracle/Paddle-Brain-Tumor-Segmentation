@@ -58,7 +58,8 @@ CUDA_VISIBLE_DEVICES=0 python train.py
 ### Step3: Evaluating
 
 ```  
-CUDA_VISIBLE_DEVICES=0 python test.py
+CUDA_VISIBLE_DEVICES=0 python test.py # test in one slice
+CUDA_VISIBLE_DEVICES=0 python test_all.py # test in all 240 slices
 ```  
 
 ## 5.Align
