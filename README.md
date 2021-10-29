@@ -14,8 +14,8 @@ Average result in all slices:
 
  Version | Dice Complete | Dice Core | Dice Enhancing
  ---- | ----- | -----  | -----
- pytorch version(official)  | 0.907  | 0.96 | 1.0
- paddle version(ours) | 0.907|  0.96 | 1.0
+ pytorch version(official)  | 0.907  | 0.961 | 1.0
+ paddle version(ours) | 0.907|  0.961 | 1.0
  
  Result in slice 113:
  
