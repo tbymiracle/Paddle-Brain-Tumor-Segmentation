@@ -57,5 +57,8 @@ python bts/check_diff.py # check diff of forward step.
  * Network structure transfer.
  * Weight transfer(model of paddle version transfered from keras link): 
  * Verify the network.
- * Forward align （bts/forward_diff.log;bts/forward_keras.npy;paddle-bts/forward_paddle.npy)
+ * Forward align
+  * bts/forward_diff.log
+  * bts/forward_keras.npy
+  * paddle-bts/forward_paddle.npy
  * train align
