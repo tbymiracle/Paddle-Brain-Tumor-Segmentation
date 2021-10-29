@@ -28,11 +28,11 @@ Average result in all slices:
 
 The model file of the keras version we trained：
 
-链接: https://pan.baidu.com/s/1d6QH6NuS9tafqQBZHEmrvA 提取码: mep2 复制这段内容后打开百度网盘手机App，操作更方便哦
+Link: https://pan.baidu.com/s/1d6QH6NuS9tafqQBZHEmrvA password: mep2
 
 The model file of the paddle version we trained：
 
-链接: https://pan.baidu.com/s/1M5wGRSbIcmQLsvCoeS5Lsg 提取码: pi6p 复制这段内容后打开百度网盘手机App，操作更方便哦
+Link: https://pan.baidu.com/s/1M5wGRSbIcmQLsvCoeS5Lsg password: pi6p
 
 
 ## 3.Requirements
