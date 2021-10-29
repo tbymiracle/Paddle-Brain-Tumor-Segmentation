@@ -22,7 +22,7 @@ input = [InputSpec([None, 65, 65, 4], 'float32', 'image'), InputSpec([None, 33, 
 label = InputSpec([None, 1, 1, 5], 'float32', 'label')
 
 model = paddle.Model(m, input, label)
-model.load('./bc/brats_2013_pat0001_1trial_0001_input_cascasde_acc')
+#model.load('./bc/brats_2013_pat0001_1trial_0001_input_cascasde_acc')
 path = '../HGG'
 p = os.listdir(path)
 p.sort(key=str.lower)
