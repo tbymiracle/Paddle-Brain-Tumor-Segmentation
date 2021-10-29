@@ -1,7 +1,7 @@
 # Paddle-Brain-Tumor-Segmentation
 
 ## 1.Introduction
-This project is based on the paddlepaddle_V2.1 framework to reproduce ResidualAttentionNetwork and the [official code](https://github.com/jadevaibhav/Brain-Tumor-Segmentation-using-Deep-Neural-networks) of Keras.
+This project is based on the paddlepaddle_V2.1 framework to reproduce Brain-Tumor-Segmentation and the [official code](https://github.com/jadevaibhav/Brain-Tumor-Segmentation-using-Deep-Neural-networks) of Keras.
 
 ## 2.Result
 
