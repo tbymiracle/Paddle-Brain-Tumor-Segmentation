@@ -21,7 +21,7 @@ in all slices:
  
   Version | Dice Complete | Dice Core | Dice Enhancing
  ---- | ----- | -----  | -----
- pytorch version(official)  | -  | - | -
+ pytorch version(official)  | 0.0828  | 0.935 | 1.0
  paddle version(ours) | 0.828|  0.935 | 1.0
  
 
